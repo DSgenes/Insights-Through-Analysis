@@ -98,7 +98,7 @@
  
    • Click OK to finalize the clustering settings.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Insights-Through-Analysis/blob/f1ef570634fd32e51486a00283d3047c826835c3/Screenshot%20-%204.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
