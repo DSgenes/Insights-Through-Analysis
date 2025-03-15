@@ -38,7 +38,7 @@
    
   • Click Apply Filter to see the updated chart with the top 10 selling products by revenue.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Insights-Through-Analysis/blob/09dd30aa17eed08e6acf1a0c34f8e33913a960cb/Screenshot%20-%202.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
