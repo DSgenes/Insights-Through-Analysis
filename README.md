@@ -70,7 +70,7 @@
 
    • Drag and drop the newly created CustomerAge Bin to the X-axis to incorporate the age group bins.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Insights-Through-Analysis/blob/ffd6dd941bb898eeb3673864e7e0252abbba963e/Screenshot%20-%203.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
